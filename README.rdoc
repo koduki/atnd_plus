@@ -1,10 +1,10 @@
 = atnd_plus
-$B$"$J$?$N(BATND$B@83h$K2?$r%W%i%9$7$^$9(B.
+あなたのATND生活に何をプラスします.
 
 ==TODO:
-*$B%$%Y%s%H$N%l%3%a%s%I$C$]$$2?$+(B
-*SNS$B$C$]$$2?$+(B
-*$B%+%l%s%@!<$C$]$$2?$+(B
-*Twitter/Facebook$B$C$]$$2?$+(B
-*PayPal$B$C$]$$2?$+(B
+*イベントのレコメンドっぽい何か
+*SNSっぽい何か
+*カレンダーっぽい何か
+*Twitter/Facebookっぽい何か
+*PayPalっぽい何か
  
