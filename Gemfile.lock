@@ -1,0 +1,15 @@
+GIT
+  remote: https://github.com/koduki/atnd4r.git
+  revision: a53ac38aa4aae93d462bae60a907460b5e36af49
+  specs:
+    atnd4r (0.0.7)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  atnd4r!

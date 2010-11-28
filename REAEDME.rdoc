@@ -1,0 +1,10 @@
+= atnd_plus
+あなたのATND生活に何をプラスします.
+
+==TODO:
+*イベントのレコメンドっぽい何か
+*SNSっぽい何か
+*カレンダーっぽい何か
+*Twitter/Facebookっぽい何か
+*PayPalっぽい何か
+ 
